@@ -6,12 +6,12 @@
 	5. Moto-
 	6. Bicicleta-
 	7. Tarjeta búsqueda por identificación -
-	8. Celdas disponibles
-	9. Página principal 
-	10. Página empleados
-	11. Página visitantes
-	12. Página administrador
-
+	8. Celdas disponibles -
+	9. Página principal -
+	10. Página empleados -
+	11. Página visitantes -
+	12. Página administrador -
+	13. Inicio sesión conserje -
 
 -Estados --> *Info y manejo inputs
 	     *Manejo datos
@@ -29,6 +29,6 @@ Dudas:
 °Páginas-Componentes
 °Ingreso Fecha y Hora --> Necesarios los inputs?
 °Ventana admin: consulta o reporte?
-***Login necesario? --> Layout --> Auth/Public
+°Login necesario? --> Layout --> Auth/Public
 	-Contexto --> Login
-	-LocalStorage --> Almacenar datos***
+	-LocalStorage --> Almacenar datos
