@@ -5,7 +5,6 @@
 	4. Carro-
 	5. Moto-
 	6. Bicicleta-
-	7. Tarjeta búsqueda por identificación -
 	8. Celdas disponibles -
 	9. Página principal -
 	10. Página empleados -
