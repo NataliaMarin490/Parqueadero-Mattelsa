@@ -1,0 +1,7 @@
+.idCard-container {
+  height: 70vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-content: space-evenly;
+  justify-items: center;
+}

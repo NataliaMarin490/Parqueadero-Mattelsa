@@ -1,0 +1,35 @@
+.searchBar-container {
+  display: block;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+  align-self: center;
+  justify-self: center;
+}
+.searchBar-container input {
+  background-image: url("./assets/search-icon.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 98%;
+  padding: 8px;
+  width: 20%;
+  border: 2px solid #c0c0c0;
+  border-radius: 5px;
+  margin-right: 20px;
+}
+.searchBar-container button {
+  padding: 8px;
+  width: 8%;
+  border: 0px;
+  border-radius: 5px;
+  background-color: #faa94a;
+  font-weight: 700;
+  font-size: 16px;
+}
+.searchBar-container button:hover {
+  cursor: pointer;
+  background-color: #f18613;
+  
+}

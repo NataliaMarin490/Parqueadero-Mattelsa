@@ -1,0 +1,29 @@
+.mainCards {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+
+  background-color: white;
+  width: 250px;
+  height: 300px;
+  border: 4px solid #c0c0c0;
+  border-radius: 10px;
+  align-items: center;
+  margin: 5%;
+}
+.mainCards button {
+  background-color: #faa94a;
+  border: 0px;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 16px;
+  padding: 10px 17px 10px 17px; 
+}
+.mainCards button:hover {
+  cursor: pointer;
+  background-color: #f18613;
+}
+.mainCards img {
+  width: 100px;
+  height: 100px;
+}

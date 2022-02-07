@@ -1,15 +1,25 @@
 header {
-  background-color: aqua;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
 }
 header ul {
   display: flex;
+  align-items: center;
   margin: 0;
   padding: 0;
 }
 header li {
   list-style: none;
+  padding: 10px;
+}
+header span{
+  font-size: 18px;
+  font-weight:500;
+  color: white;
+  text-decoration: none;
 }
 header img {
-  margin-top: 0;
+  margin: 10px;
   width: 150px;
 }
